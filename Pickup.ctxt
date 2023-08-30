@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Pickup
+comment0.text=\r\n\ Parent\ class\ for\ powerups/pickups\r\n\ \r\n\ @author\ Dawson\r\n\ @version\ 2023-06-20\r\n
+comment1.params=
+comment1.target=Pickup()
+comment2.params=world\ curX\ curY
+comment2.target=void\ spawnRandomPickup(greenfoot.World,\ int,\ int)
+comment2.text=\r\n\ Gets\ a\ random\ int,\ and\ add\ corresponding\ powerup\ to\ the\ world\r\n
+numComments=3

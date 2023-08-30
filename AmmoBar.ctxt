@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=AmmoBar
+comment0.text=\r\n\ The\ container\ that\ will\ store\ Ammo\ and\ display\ it\ on\ screen\r\n\ \r\n\ @author\ Dawson\r\n\ @version\ 2023-06-20\r\n
+comment1.params=curPlayer\ curWorld
+comment1.target=AmmoBar(Player,\ greenfoot.World)
+comment1.text=\r\n\ Sets\ variables\r\n\ \r\n\ @param\ curPlayer\ The\ player\ this\ AmmoBar\ belongs\ to\r\n\ @param\ curWorld\ \ What\ world\ to\ display\ to\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ method\r\n\ Gets\ player\ ammoCount\r\n\ Adds\ and\ removes\ Ammo\ from\ this\ to\ match\ ammoCount\r\n
+numComments=3

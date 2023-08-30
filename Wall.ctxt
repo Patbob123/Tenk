@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Wall
+comment0.text=\r\n\ Walls\ are\ immovable\ objects\ around\ the\ map,\ can\ be\ destroyed\r\n\ \r\n\ @author\ Dawson\r\n\ @version\ 2023-06-20\r\n
+comment1.params=wallType
+comment1.target=Wall(java.lang.String)
+comment1.text=\r\n\ Sets\ image\r\n\ \r\n\ @param\ wallType\ \ The\ name\ of\ the\ image\ file\ of\ the\ wall\r\n
+comment2.params=
+comment2.target=void\ takeDamage()
+comment2.text=\r\n\ Default\ method\ for\ a\ wall\ taking\ damage\r\n\ Dies\ when\ any\ damage\ is\ taken\r\n
+comment3.params=
+comment3.target=void\ die()
+comment3.text=\r\n\ Default\ method\ for\ a\ wall\ dying\r\n\ Removes\ from\ world\r\n
+numComments=4

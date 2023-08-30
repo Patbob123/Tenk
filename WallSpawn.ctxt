@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=WallSpawn
+comment0.text=\r\n\ Wall\ Spawn\ Encapsulation\r\n\ \r\n\ @author\ Dawson\r\n\ @version\ 2023-06-20\r\n
+comment1.params=curWall\ curX\ curY
+comment1.target=WallSpawn(Wall,\ int,\ int)
+comment1.text=\r\n\ Wall\ Spawn\ set\r\n\ \r\n\ @param\ curWall\ \ \ The\ wall\ part\r\n\ @param\ curX\ \ \ \ \ \ The\ x-coordinate\r\n\ @param\ curY\ \ \ \ \ \ The\ y-coordinate\r\n
+numComments=2

@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Button
+comment0.text=\r\n\ Button\ class\ that\ runs\ its\ Function\ object's\ function\ when\ clicked\ by\ the\ mouse\r\n\ \r\n\ @author\ Dawson\r\n\ @version\ 2023-06-20\r\n
+comment1.params=buttonAction\ buttonFile
+comment1.target=Button(Function,\ java.lang.String)
+comment1.text=\r\n\ @param\ buttonAction\ \ The\ Function\ object\ that\ will\ run\r\n\ @param\ buttonFile\ \ \ \ The\ image\ of\ the\ button's\ directory\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ method\r\n\ For\ clicking\ and\ hovering\r\n
+comment3.params=
+comment3.target=void\ init()
+comment3.text=\r\n\ Mutator\ for\ X\ and\ Y\r\n
+comment4.params=
+comment4.target=void\ runAction()
+comment4.text=\r\n\ Running\ the\ Function\ object's\ function\r\n
+comment5.params=
+comment5.target=void\ detectHover()
+comment5.text=\r\n\ Checks\ if\ the\ mouse\ is\ hovering\ over\ the\ button,\ if\ so,\ move\ the\ button\ up\ for\ a\ visual\ effect\r\n\ KNOWN\ ISSUE\:\ if\ the\ mouse\ is\ on\ the\ bottom\ of\ the\ button,\ then\ it\ will\ start\ jittering\ due\ to\ the\ mouse\ rapidly\ entering\ and\ leaving\ the\ button\r\n
+numComments=6

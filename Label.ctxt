@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Label
+comment0.text=\r\n\ Label\ class\ that\ contain\ text\ to\ display\r\n\ \r\n\ @author\ Dawson\r\n\ @version\ 2023-06-20\r\n
+comment1.params=curFont\ curColor\ curWidth\ curHeight
+comment1.target=Label(greenfoot.Font,\ greenfoot.Color,\ int,\ int)
+comment1.text=\r\n\ Sets\ variables\ and\ image\r\n\ \r\n\ @param\ curFont\ \ \ Font\r\n\ @param\ curColor\ \ Color\ \ \r\n\ @param\ curWidth\ \ Width\r\n\ @param\ curHeight\ Height\r\n
+comment2.params=
+comment2.target=void\ init()
+comment2.text=\r\n\ Sets\ color,\ font\ and\ image\r\n
+comment3.params=curLabels
+comment3.target=void\ setLabels(java.lang.String[])
+comment3.text=\r\n\ Sets\ labels\r\n\ \r\n\ @param\ curLabels\ The\ labels\ that\ will\ displayed\ alongside\ a\ value\r\n
+comment4.params=value
+comment4.target=void\ update(java.lang.String[])
+comment4.text=\r\n\ Updates\ the\ label\r\n\ \r\n\ @param\ value\ The\ values\ that\ will\ displayed\ alongside\ a\ label\r\n
+numComments=5

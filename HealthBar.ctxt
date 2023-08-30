@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=HealthBar
+comment0.text=\r\n\ Display\ health\ on\ screen\r\n\ \r\n\ @author\ Dawson\r\n\ @version\ 2023-06-20\r\n
+comment1.params=curPlayer
+comment1.target=HealthBar(Player)
+comment1.text=\r\n\ Sets\ variables\ and\ all\ images\ for\ each\ amounts\ of\ HP\r\n\ \r\n\ @param\ curPlayer\ The\ player\ this\ AmmoBar\ belongs\ to\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ method\r\n\ Gets\ player\ hp\ and\ sets\ image\ accordingly\r\n
+numComments=3

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=FastEnemy
+comment0.text=\r\n\ Fast\ little\ guy\r\n\ \r\n\ @author\ Dawson\r\n\ @version\ 2023-06-20\r\n
+comment1.params=curHp
+comment1.target=FastEnemy(int)
+comment1.text=\r\n\ @param\ curHp\ \ \ \ \ HP\ of\ the\ enemy\r\n
+numComments=2

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Function
+comment0.text=\r\n\ Function\ interface\ that\ can\ be\ passed\ through\ methods\ for\ later\ use\r\n\ \r\n\ @author\ Dawson\r\n\ @version\ 2023-06-20\r\n
+comment1.params=
+comment1.target=void\ apply()
+numComments=2

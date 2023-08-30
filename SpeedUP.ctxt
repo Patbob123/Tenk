@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=SpeedUP
+comment0.text=\r\n\ Increase\ the\ speed\ of\ player\r\n\ \r\n\ @author\ Dawson\r\n\ @version\ 2023-06-20\r\n
+comment1.params=curDuration
+comment1.target=SpeedUP(int)
+comment1.text=\r\n\ Sets\ image\r\n\ \r\n\ @param\ curDuration\ \ \ How\ long\ the\ powerup\ lasts\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ method\r\n\ Gets\ collected\ if\ a\ player\ is\ at\ it\r\n
+comment3.params=player
+comment3.target=void\ collect(Player)
+comment3.text=\r\n\ Applies\ the\ buff\ to\ player\r\n\ Removes\ itself\ from\ the\ world\r\n
+numComments=4

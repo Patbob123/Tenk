@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=WinWorld
+comment0.text=\r\n\ The\ world\ the\ player\ goes\ to\ when\ they\ win\r\n\ \r\n\ @author\ Dawson\r\n\ @version\ 2023-06-20\r\n
+comment1.params=curPlayer\ bossBody
+comment1.target=WinWorld(Player,\ Enemy)
+comment1.text=\r\n\ Adds\ the\ boss\ to\ the\ world\ to\ be\ exploded\r\n\ Sets\ background\r\n\ \r\n\ @param\ curPlayer\ \ \ \ \ Player's\ score\ will\ be\ accessed\ to\ be\ displayed\r\n\ @param\ bossBody\ \ \ \ \ \ The\ boss\ that\ will\ explode\ as\ a\ result\ of\ winning\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ explosionDelay\ ticks\ down\ each\ act\ until\ it\ reaches\ 0\r\n\ \r\n
+comment3.params=labels
+comment3.target=void\ addLabels(java.lang.String[])
+comment3.text=\r\n\ Set\ labels\ to\ add\ to\ the\ current\ world\r\n\ \r\n\ @param\ labels\ \ \ \ a\ list\ of\ labels\ to\ add\ to\ the\ Label\ object\ -\ each\ label\ corresponds\ with\ a\ value\r\n
+comment4.params=
+comment4.target=void\ paintOrder()
+comment4.text=\r\n\ Sets\ paint\ order\ of\ the\ classes\r\n
+numComments=5

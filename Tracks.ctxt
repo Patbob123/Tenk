@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Tracks
+comment0.text=\r\n\ The\ tracks\ that\ will\ be\ left\ behind\ when\ a\ player\ or\ enemy\ moves\r\n\ \r\n\ @author\ Dawson\r\n\ @version\ 2023-06-20\r\n
+comment1.params=curX\ curY\ curDirection\ curTankWidth\ curTrackOffset
+comment1.target=Tracks(int,\ int,\ java.lang.String,\ int,\ int)
+comment1.text=\r\n\ Sets\ variables\ for\ position,\ direction,\ size\ and\ opacity\ for\ the\ tracks\r\n\ \r\n\ @param\ curX\ \ \ \ \ \ \ \ \ \ \ \ \ \ x-coordinate\r\n\ @param\ curY\ \ \ \ \ \ \ \ \ \ \ \ \ \ y-coordinate\r\n\ @param\ curDirection\ \ \ \ \ \ The\ direction\ this\ faces\r\n\ @param\ curTankWidth\ \ \ \ \ \ Width\ the\ tank\ that\ is\ spawning\ these\ tracks\r\n\ @param\ curTrackOffset\ \ \ \ Where\ the\ tracks\ will\ spawn\ relative\ to\ the\ tank\r\n
+comment2.params=world
+comment2.target=void\ spawn(greenfoot.World)
+comment2.text=\r\n\ Spawns\ 2\ tracks\ object\ on\ each\ side\ of\ the\ tank\r\n\ \r\n\ @param\ world\ \ \ \ \ The\ world\ this\ will\ spawn\ in\r\n
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\r\n\ Act\ method\ \r\n\ Decrease\ opacity\ each\ act\ until\ 0,\ then\ removes\ itself\r\n
+comment4.params=
+comment4.target=void\ rotate()
+comment4.text=\r\n\ Rotate\ the\ track\ image\r\n
+numComments=5

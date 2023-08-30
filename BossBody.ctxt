@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=BossBody
+comment0.text=\r\n\ The\ core\ of\ the\ boss,\ required\ to\ kill\ inorder\ to\ win\ the\ game\r\n\ \r\n\ @author\ Dawson\r\n\ @version\ 2023-06-20\r\n
+comment1.params=curHp
+comment1.target=BossBody(int)
+comment1.text=\r\n\ Creates\ images\ for\ boss\ animation\r\n\ \r\n\ @param\ curHp\ \ \ \ \ HP\ for\ the\ boss\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ \ Act\ method\ to\ play\ effects\ and\ animation\r\n
+comment3.params=
+comment3.target=void\ playAnim()
+comment3.text=\r\n\ \ Plays\ a\ 4\ frame\ animation\r\n
+comment4.params=
+comment4.target=void\ playEffects()
+comment4.text=\r\n\ \ Plays\ smoke\ or\ hit\ effects\r\n
+comment5.params=
+comment5.target=void\ die()
+comment5.text=\r\n\ \ Removes\ itself\ from\ the\ world,\ and\ add\ a\ transition\ to\ WinWorld\r\n
+numComments=6

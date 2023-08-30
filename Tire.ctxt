@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Tire
+comment0.text=\r\n\ Tires\ are\ just\ obstacles\r\n\ \r\n\ @author\ Dawson\r\n\ @version\ 2023-06-20\r\n
+comment1.params=
+comment1.target=Tire()
+comment1.text=\r\n\ Sets\ hp\r\n\ Makes\ a\ wall\ with\ this\ image\ url\r\n
+comment2.params=
+comment2.target=void\ takeDamage()
+comment2.text=\r\n\ Decrease\ hp\ by\ 1\ when\ any\ damage\ is\ taken\r\n
+comment3.params=range
+comment3.target=java.util.List\ getColliding(int)
+comment3.text=\r\n\ Method\ for\ dummy\ tires\ to\ detect\ if\ anything\ is\ colliding\ with\ it\r\n\ Used\ for\ checking\ if\ a\ position\ is\ availible\ to\ spawn\ enemies\ or\ walls\r\n
+comment4.params=
+comment4.target=void\ act()
+comment4.text=\r\n\ Act\ method\r\n\ Just\ removes\ itself\ when\ hp\ reaches\ 0\r\n
+numComments=5

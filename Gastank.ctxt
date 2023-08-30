@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Gastank
+comment0.text=\r\n\ Gastanks\ are\ explosive\ obstacles\r\n\ \r\n\ @author\ Dawson\r\n\ @version\ 2023-06-20\r\n
+comment1.params=
+comment1.target=Gastank()
+comment1.text=\r\n\ Makes\ a\ wall\ with\ this\ image\ url\r\n
+comment2.params=
+comment2.target=void\ takeDamage()
+comment2.text=\r\n\ Die\ when\ any\ damage\ is\ taken\r\n
+comment3.params=
+comment3.target=void\ die()
+comment3.text=\r\n\ Spawns\ a\ huge\ explosion\ scaling\ off\ explodeSize\r\n\ Then\ remove\ itself\ from\ the\ world\r\n
+numComments=4

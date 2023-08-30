@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Bullet
+comment0.text=\r\n\ Bullet\ interactions\ with\ enemies\ and\ players\ are\ computed\ here\r\n\ \r\n\ @author\ Dawson\r\n\ @version\ 2023-06-20\r\n
+comment1.params=curX\ curY\ curDirection\ curSpeed\ curDmg\ imgFileName\ curOwner
+comment1.target=Bullet(int,\ int,\ java.lang.String,\ int,\ int,\ java.lang.String,\ greenfoot.Actor)
+comment1.text=\r\n\ Initialize\ variables\ to\ keep\ track\ of\ movement\ and\ sets\ the\ image\ for\ normal\ bullets\r\n\ \r\n\ @param\ curX\ \ \ \ \ \ \ \ \ \ \ \ \ \ x-coordinate\r\n\ @param\ curY\ \ \ \ \ \ \ \ \ \ \ \ \ \ y-coodinate\r\n\ @param\ curDirection\ \ \ \ \ \ The\ direction\ the\ bullet\ will\ go\r\n\ @param\ curSpeed\ \ \ \ \ \ \ \ \ \ Speed\r\n\ @param\ curDmg\ \ \ \ \ \ \ \ \ \ \ \ Damage\r\n\ @param\ imgFileName\ \ \ \ \ \ \ The\ name\ of\ the\ image\ file\r\n\ @param\ curOwner\ \ \ \ \ \ \ \ \ \ The\ owner\ of\ the\ bullet\r\n
+comment2.params=curX\ curY\ curRotation\ curSpeed\ curDmg\ curOwner
+comment2.target=Bullet(int,\ int,\ int,\ int,\ int,\ greenfoot.Actor)
+comment2.text=\r\n\ Initialize\ bullet\ for\ boss\ bullets\r\n\ \r\n\ @param\ curX\ \ \ \ \ \ \ \ \ \ \ \ \ \ x-coordinate\r\n\ @param\ curY\ \ \ \ \ \ \ \ \ \ \ \ \ \ y-coodinate\r\n\ @param\ curRotation\ \ \ \ \ \ \ The\ rotation\ of\ the\ bullet\r\n\ @param\ curSpeed\ \ \ \ \ \ \ \ \ \ Speed\r\n\ @param\ curDmg\ \ \ \ \ \ \ \ \ \ \ \ Damage\r\n\ @param\ curOwner\ \ \ \ \ \ \ \ \ \ The\ owner\ of\ the\ bullet\r\n
+comment3.params=world
+comment3.target=void\ spawn(greenfoot.World)
+comment3.text=\r\n\ Sets\ rotation\ and\ adds\ bullet\ to\ the\ world\r\n
+comment4.params=
+comment4.target=void\ act()
+comment4.text=\r\n\ Act\ method\r\n\ Moves\ and\ do\ damage\r\n\ Removes\ this\ when\ reached\ the\ edge\ of\ the\ world\r\n
+comment5.params=
+comment5.target=void\ checkDoDamage()
+comment5.text=\r\n\ Gets\ a\ list\ of\ actors\ colliding\ with\ this\ and\ do\ damage\ to\ any\ valid\ targets\r\n
+numComments=6

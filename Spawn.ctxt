@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Spawn
+comment0.text=\r\n\ Parent\ class\ for\ Spawns,\ a\ helper\ class\ to\ group\ an\ actor\ and\ its\ coordinates\r\n\ \r\n\ @author\ Dawson\r\n\ @version\ 2023-06-20\r\n
+comment1.params=
+comment1.target=void\ act()
+numComments=2

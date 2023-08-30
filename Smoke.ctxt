@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Smoke
+comment0.text=\r\n\ Smoke\ particles\ for\ player\ and\ enemies\r\n\ \r\n\ @author\ Dawson\r\n\ @version\ 2023-06-20\r\n
+comment1.params=curX\ curY\ curSpeed
+comment1.target=Smoke(int,\ int,\ int)
+comment1.text=\r\n\ Creates\ a\ Smoke\ particle\ object\ and\ set\ its\ image\r\n\ \r\n\ @param\ curX\ \ \ \ \ \ x-coordinate\r\n\ @param\ curY\ \ \ \ \ \ y-coordinate\r\n\ @param\ curSpeed\ \ Speed\ at\ which\ the\ particle\ moves\ up\r\n
+comment2.params=curX\ curY\ curSpeed\ curSmokeSpread\ size
+comment2.target=Smoke(int,\ int,\ int,\ int,\ int)
+comment2.text=\r\n\ Creates\ a\ Smoke\ particle\ object\ and\ set\ its\ image\ at\ a\ certain\ size\r\n\ \r\n\ @param\ curX\ \ \ \ \ \ \ \ \ \ \ \ \ \ x-coordinate\r\n\ @param\ curY\ \ \ \ \ \ \ \ \ \ \ \ \ \ y-coordinate\r\n\ @param\ curSpeed\ \ \ \ \ \ \ \ \ \ Speed\ at\ which\ the\ particle\ moves\ up\r\n\ @param\ curSmokeSpread\ \ \ \ How\ far\ apart\ the\ particles\ are\r\n\ @param\ size\ \ \ \ \ \ \ \ \ \ \ \ \ \ The\ size\ of\ the\ particle\r\n
+comment3.params=world
+comment3.target=void\ spawn(greenfoot.World)
+comment3.text=\r\n\ Adds\ a\ particle\ to\ world,\ offset\ depending\ on\ the\ smokeSpread\r\n\ \r\n\ @param\ world\ \ \ \ \ The\ world\ to\ add\ this\ to\r\n
+comment4.params=
+comment4.target=void\ act()
+comment4.text=\r\n\ Act\ method\r\n\ Each\ act\ opacity\ decreases\ and\ position\ moves\ up,\ if\ transparent,\ remove\ itself\r\n
+numComments=5

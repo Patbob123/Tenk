@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Transition
+comment0.text=\r\n\ Transition\ that\ will\ switch\ between\ worlds\r\n\ \r\n\ @author\ Dawson\r\n\ @version\ 2023-06-20\r\n
+comment1.params=curWorld
+comment1.target=Transition(greenfoot.World)
+comment1.text=\r\n\ Sets\ images\ for\ animation\r\n\ \r\n\ @param\ curWorld\ \ The\ world\ the\ game\ will\ go\ to\r\n
+comment2.params=
+comment2.target=void\ transitionTo()
+comment2.text=\r\n\ Sets\ Greenfoot\ world\ to\ world\r\n\ Add\ itself\ to\ the\ new\ world,\ then\ play\ animation\ in\ reverse\r\n
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\r\n\ Act\ method\r\n\ Plays\ animation\r\n
+comment4.params=
+comment4.target=void\ playAnim()
+comment4.text=\r\n\ Plays\ animation\ based\ on\ what\ state\ of\ movement\ the\ transition\ is\ currently\ in\r\n
+numComments=5

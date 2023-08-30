@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=HealthUP
+comment0.text=\r\n\ Restores\ player\ health\r\n\ \r\n\ @author\ Dawson\r\n\ @version\ 2023-06-20\r\n
+comment1.params=hpAmount
+comment1.target=HealthUP(int)
+comment1.text=\r\n\ Sets\ image\r\n\ \r\n\ @param\ hpAmount\ \ \ How\ much\ HP\ this\ heals\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ method\r\n\ Gets\ collected\ if\ a\ player\ is\ at\ it\r\n
+comment3.params=player
+comment3.target=void\ collect(Player)
+comment3.text=\r\n\ Adds\ to\ player\ HP\r\n\ Removes\ itself\ from\ the\ world\r\n
+numComments=4

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Cursor
+comment0.text=\r\n\ Cursor\ purely\ for\ aesthetic\ purposes\r\n\ \r\n\ @author\ Dawson\r\n\ @version\ 2023-06-20\r\n
+comment1.params=
+comment1.target=Cursor()
+comment1.text=\r\n\ Sets\ cursor\ image\ and\ size\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Each\ act\ ensures\ the\ cursor\ follows\ the\ mouse\r\n
+numComments=3

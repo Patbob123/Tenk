@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Target
+comment0.text=\r\n\ A\ red\ target\ that\ indicates\ when\ and\ where\ an\ enemy\ will\ spawn\r\n\ \r\n\ @author\ Dawson\r\n\ @version\ 2023-06-20\r\n
+comment1.params=curWorld\ curEnemy\ curSpeed
+comment1.target=Target(greenfoot.World,\ Enemy,\ int)
+comment1.text=\r\n\ Sets\ variables\ for\ speed,\ size\ and\ opacity\ for\ the\ target\r\n\ \r\n\ @param\ curWorld\ \ The\ world\ to\ add\ this\r\n\ @param\ curEnemy\ \ The\ enemy\ this\ spawns\r\n\ @param\ curSpeed\ \ How\ fast\ this\ will\ shrink\ and\ appear\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ method\r\n\ Size\ multiplier\ ticks\ down,\ which\ shrinks\ the\ image\ size\ each\ act\r\n\ Opacity\ increase\ each\ act\ \r\n\ Once\ size\ is\ its\ original\ size,\ spawn\ a\ Dust\ that\ will\ spawn\ an\ Enemy\r\n
+numComments=3

@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Explosion
+comment0.text=\r\n\ Explosion\ that\ spawns\ if\ an\ enemy\ dies\ or\ a\ barrel\ explodes,\ customizable\ size\r\n\ Deals\ damage\ to\ everything\ caught\ in\ the\ radius\r\n\ \r\n\ @author\ Dawson\r\n\ @version\ 2023-06-20\r\n
+comment1.params=width\ height\ curX\ curY
+comment1.target=Explosion(int,\ int,\ int,\ int)
+comment1.text=\r\n\ Explosion\ that\ spawns\ if\ an\ enemy\ dies\ or\ a\ barrel\ explodes,\ customizable\ size\r\n\ Deals\ damage\ to\ everything\ caught\ in\ the\ radius\r\n\ \r\n\ @param\ width\ \ \ \ \ Width\r\n\ @param\ height\ \ \ \ Height\r\n\ @param\ curX\ \ \ \ \ \ x-coordinate\r\n\ @param\ curY\ \ \ \ \ \ y-coordinate\r\n
+comment2.params=world\ causeActor
+comment2.target=void\ spawn(greenfoot.World,\ greenfoot.Actor)
+comment2.text=\r\n\ Adds\ itself\ to\ the\ world\r\n\ Deals\ damage\ to\ everything\ caught\ in\ the\ radius\r\n\ \r\n\ @param\ world\ \ \ \ \ \ \ \ \ The\ world\ it\ will\ spawn\ in\r\n\ @param\ causeActor\ \ \ \ The\ owner\ of\ the\ explosion\ \r\n
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\r\n\ Act\ method\r\n\ Plays\ an\ animation\r\n
+comment4.params=causeActor
+comment4.target=void\ checkDoDamage(greenfoot.Actor)
+comment4.text=\r\n\ Do\ damage\ to\ every\ Enemy,\ Player\ or\ wall\ in\ the\ radius\r\n\ \r\n\ @param\ causeActor\ \ \ \ The\ owner\ of\ the\ explosion\r\n
+comment5.params=
+comment5.target=void\ playAnim()
+comment5.text=\r\n\ Plays\ a\ 4\ frame\ animation\r\n
+numComments=6

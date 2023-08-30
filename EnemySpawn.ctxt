@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=EnemySpawn
+comment0.text=\r\n\ Enemy\ Spawn\ Encapsulation\r\n\ \r\n\ @author\ Dawson\r\n\ @version\ 2023-06-20\r\n
+comment1.params=curEnemy\ curX\ curY
+comment1.target=EnemySpawn(Enemy,\ int,\ int)
+comment1.text=\r\n\ Enemy\ Spawn\ set\r\n\ \r\n\ @param\ curEnemy\ \ The\ enemy\ part\r\n\ @param\ curX\ \ \ \ \ \ The\ x-coordinate\r\n\ @param\ curY\ \ \ \ \ \ The\ y-coordinate\r\n
+numComments=2

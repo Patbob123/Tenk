@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=PauseWorld
+comment0.text=\r\n\ Press\ ESC\ to\ be\ sent\ to\ the\ pause\ world\r\n\ Shows\ brief\ instructions\ on\ key\ bindings\r\n\ \r\n\ @author\ Dawson\r\n\ @version\ 2023-06-20\r\n
+comment1.params=curWorld
+comment1.target=PauseWorld(greenfoot.World)
+comment1.text=\r\n\ The\ world\ the\ game\ goes\ to\ when\ paused\r\n\ \r\n\ @param\ \ \ curWorld\ the\ world\ to\ go\ back\ to\ later\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Checks\ for\ the\ ESC\ key,\ unpause\ if\ it\ is\ pressed\r\n
+comment3.params=howTos
+comment3.target=void\ addHowToLabels(java.lang.String[])
+comment3.text=\r\n\ Adds\ all\ the\ instruction\ labels\ on\ the\ pause\ screen\r\n\ \r\n\ @param\ howTos\ \ \ \ List\ of\ labels\ to\ add\ onto\ the\ object\ Label\r\n
+numComments=4

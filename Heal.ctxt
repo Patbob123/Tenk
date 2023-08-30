@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Heal
+comment0.text=\r\n\ Heal\ particles\ for\ player\r\n\ \r\n\ @author\ Dawson\r\n\ @version\ 2023-06-20\r\n
+comment1.params=curX\ curY\ curSpeed
+comment1.target=Heal(int,\ int,\ int)
+comment1.text=\r\n\ Creates\ a\ Heal\ particle\ object\ and\ set\ its\ image\r\n\ \r\n\ @param\ curX\ \ \ \ \ \ x-coordinate\r\n\ @param\ curY\ \ \ \ \ \ y-coordinate\r\n\ @param\ curSpeed\ \ Speed\ at\ which\ the\ particle\ moves\ up\r\n
+comment2.params=world
+comment2.target=void\ spawn(greenfoot.World)
+comment2.text=\r\n\ Adds\ a\ particle\ to\ world,\ offset\ depending\ on\ the\ healSpread\r\n\ \r\n\ @param\ world\ \ \ \ \ The\ world\ to\ add\ this\ to\r\n
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\r\n\ Act\ method\r\n\ Each\ act\ opacity\ decreases\ and\ position\ moves\ up,\ if\ transparent,\ remove\ itself\r\n
+numComments=4

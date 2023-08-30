@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=MusicManager
+comment0.text=\r\n\ Class\ to\ manage\ all\ the\ music\ in\ the\ game\r\n\ \r\n\ @author\ Dawson\r\n\ @version\ 2023-06-20\r\n
+comment1.params=
+comment1.target=MusicManager()
+comment2.params=
+comment2.target=void\ initTracks()
+comment2.text=\r\n\ Initializes\ all\ the\ music\ at\ the\ start\ of\ each\ run\r\n
+comment3.params=trackIndex
+comment3.target=void\ switchTrack(int)
+comment3.text=\r\n\ Switches\ which\ track\ is\ played\r\n\ @param\ trackIndex\ \ \ \ Index\ of\ the\ track\ in\ the\ tracks\ array\r\n
+comment4.params=volume
+comment4.target=void\ setVolume(int)
+comment4.text=\r\n\ Set\ volume\ for\ the\ current\ track\r\n
+comment5.params=
+comment5.target=void\ stopTrack()
+comment5.text=\r\n\ Stop\ the\ track\r\n
+numComments=6

@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Utils
+comment0.text=\r\n\ Utilities\ class,\ duration\ is\ not\ fully\ implemented\ as\ of\ 2023-06-20\r\n\ \r\n\ @author\ Dawson\r\n\ @version\ 2023-06-20\r\n
+comment1.params=actor\ rotation\ duration
+comment1.target=void\ rotate(greenfoot.Actor,\ int,\ int)
+comment1.text=\r\n\ Method\ to\ rotate\ a\ given\ actor\r\n\ \r\n\ @param\ actor\ \ \ \ \ The\ actor\r\n\ @param\ rotation\ \ Degree\ of\ the\ rotation\r\n\ @param\ duration\ \ How\ long\ the\ rotation\ will\ take\r\n
+comment2.params=actor\ interRotation\ duration\ i
+comment2.target=void\ rotateHelper(greenfoot.Actor,\ int,\ int,\ int)
+comment2.text=\r\n\ Method\ to\ rotate\ a\ given\ actor\r\n\ \r\n\ @param\ actor\ \ \ \ \ \ \ \ \ \ \ \ \ The\ actor\r\n\ @param\ interRotation\ \ \ \ \ Degree\ of\ intermediate\ rotations\r\n\ @param\ duration\ \ \ \ \ \ \ \ \ \ How\ long\ the\ rotation\ will\ take\r\n\ @param\ i\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ Current\ intermediate\ rotation\ \r\n
+comment3.params=
+comment3.target=java.util.HashMap\ getDirInts()
+comment3.text=\r\n\ Accesor\ for\ directionInts\r\n
+comment4.params=
+comment4.target=java.util.HashMap\ getIntDirs()
+comment4.text=\r\n\ Accesor\ for\ intDirections\r\n
+comment5.params=start\ end
+comment5.target=int\ getRandomNumber(int,\ int)
+comment5.text=\r\n\ Better\ version\ of\ Greenfoot.getRandomNumber\ that\ allows\ for\ a\ set\ range\r\n
+numComments=6

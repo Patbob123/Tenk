@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Dust
+comment0.text=\r\n\ Dust\ effect\ when\ enemy\ spawns\r\n\ \r\n\ @author\ Dawson\r\n\ @version\ 2023-06-20\r\n
+comment1.params=curEnemy\ curSpeed\ curX\ curY
+comment1.target=Dust(Enemy,\ int,\ int,\ int)
+comment1.text=\r\n\ Creates\ Dust\ and\ sets\ its\ opacity\r\n\ \r\n\ @param\ curEnemy\ \ Enemy\ added\ alongside\ the\ dust\r\n\ @param\ curSpeed\ \ How\ fast\ the\ dust\ dissipates\r\n\ @param\ curX\ \ \ \ \ \ X\ coordinate\r\n\ @param\ curY\ \ \ \ \ \ Y\ coordinate\r\n
+comment2.params=world
+comment2.target=void\ spawn(greenfoot.World)
+comment2.text=\r\n\ Creates\ Dust\ and\ sets\ its\ opacity\r\n
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\r\n\ Act\ method\r\n\ Decrease\ opacity\ every\ act,\ removes\ itself\ when\ fully\ transparent\r\n
+numComments=4

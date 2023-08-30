@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=LoseWorld
+comment0.text=\r\n\ The\ world\ the\ player\ goes\ to\ when\ they\ lose\r\n\ \r\n\ @author\ Dawson\r\n\ @version\ 2023-06-20\r\n
+comment1.params=curPlayer
+comment1.target=LoseWorld(Player)
+comment1.text=\r\n\ Adds\ the\ player\ into\ the\ world\ then\ sets\ background\r\n\ \r\n\ @param\ \ \ curPlayer\ this\ is\ the\ player\ that\ will\ explode\ as\ a\ result\ of\ losing\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ The\ time\ until\ the\ explosion\ ticks\ down\r\n\ Once\ it\ reaches\ 0,\ an\ explosion\ is\ spawned\ at\ the\ player\ and\ player\ is\ removed\r\n\ GUI\ elements\ are\ added\ in\ after\r\n
+comment3.params=labels
+comment3.target=void\ addLabels(java.lang.String[])
+comment3.text=\r\n\ Set\ labels\ to\ add\ to\ the\ current\ world\r\n\ \r\n\ @param\ labels\ \ \ \ a\ list\ of\ labels\ to\ add\ to\ the\ Label\ object\ -\ each\ label\ corresponds\ with\ a\ value\r\n
+comment4.params=
+comment4.target=void\ paintOrder()
+comment4.text=\r\n\ Sets\ paint\ order\ of\ the\ classes\r\n
+numComments=5

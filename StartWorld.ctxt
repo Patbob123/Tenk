@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=StartWorld
+comment0.text=\r\n\ The\ start\ of\ the\ game\r\n\ Contains\ a\ button\ which\ loads\ into\ the\ GameWorld\r\n\ \r\n\ @author\ Dawson\r\n\ @version\ 2023-06-20\r\n
+comment1.params=
+comment1.target=StartWorld()
+comment1.text=\r\n\ Sets\ background\r\n\ Adds\ a\ button\r\n
+comment2.params=
+comment2.target=void\ paintOrder()
+comment2.text=\r\n\ Sets\ the\ paint\ order\ of\ the\ classes\r\n\ \r\n
+numComments=3

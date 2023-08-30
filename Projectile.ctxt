@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Projectile
+comment0.text=\r\n\ Parent\ class\ for\ projectiles,\ only\ bullet\ as\ of\ 2023-06-20\r\n\ \r\n\ @author\ Dawson\r\n\ @version\ 2023-06-20\r\n
+comment1.params=
+comment1.target=void\ act()
+numComments=2
